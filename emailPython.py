@@ -6,8 +6,8 @@ import smtplib
 email_sender = 'Email@gmail.com'
 # Email App Password obtained from: http://myaccount.google.com/u/4/apppasswords
 email_password = 'Placeholder Pass'
-# Email to which the Message will be sent
-email_receiver = 'Email@gmail.com'
+# Emails to which the Message will be sent
+email_receiver = ['Email@gmail.com', 'Email2@gmail.com']
 
 # Subject of the Email
 subject =  'Placeholder Subject'
